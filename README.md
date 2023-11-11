@@ -8,7 +8,7 @@ I am a Front End Developer and UI Designer from Cuba.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [cheshire.dd96@gmail.com](mailto:cheshire.dd96@gmail.com)
-* 🧠  I'm learning flutter
+* 🧠  I'm learning .NET
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
